@@ -5,6 +5,7 @@ dnspython
 gitpython
 hachoir
 heroku3
+telebot
 lyricsgenius
 motor==3.0.0
 pillow
